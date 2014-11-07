@@ -1,4 +1,4 @@
-# Script to accompany manuscript titled 'Predicting non-indigenous species establishment with pathway-level models that combine propagule pressure, environmental tolerance and trait data'
+# Script to accompany manuscript titled 'Pathway-level models to predict non-indigenous species establishment using propagule pressure, environmental tolerance and trait data'
 
 # Published in Journal of Applied Ecology
 # Authors: Johanna Bradie and Brian Leung
